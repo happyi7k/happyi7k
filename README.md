@@ -36,7 +36,7 @@ https://happyi7k.github.io
 </thead>
 <tbody>
 <tr><th scope='row'>Name</th><td>Deukwon Seo</td></tr>
-<tr><th scope='row'>Born</th><td><time datetime="2022-09-27 17:00">27 September, 2022</time></td></tr>
+<tr><th scope='row'>Born</th><td><time datetime="2022-09-27 17:00">27 December, 1992</time></td></tr>
 <tr><th scope='row'>Nationality</th><td>Korean</td></tr>
 <tr><th scope='row'>Occupation</th><td>Developer</td></tr>
 <tr><th scope='row'>Skills</th><td>HTML, CSS, JavaScript, Java, RPA</td></tr>
